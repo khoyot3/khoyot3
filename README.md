@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alvaro</h1>
 <h3 align="center">A passionate SRE from Colombia</h3>
 
-- 🔭 I’m currently working on **support application on an IT company**
+- 🔭 I’m currently working on **support infraestructure on an IT company**
 
 - 🌱 I’m currently learning **Python, Azure and Google Cloud**
 
